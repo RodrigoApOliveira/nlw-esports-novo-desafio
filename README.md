@@ -9,7 +9,7 @@ Projeto construido no envento NLW Next Level Week da Rocketseat.
 
 [:link: Clique aqui para acessar](https://rodrigoapoliveira.github.io/nlw-films-and-series/)
 
-## :hommer_and_wrench: Tecnologias
+## :hammer_and_wrench: Tecnologias
 
 - HTML
 - CSS
