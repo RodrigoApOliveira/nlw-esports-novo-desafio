@@ -1,10 +1,15 @@
 # NLW Filmes e Series
 
+![preview](./.github/preview.png)
+
+
 > Trilha Explorer
 
-Projeto contruido no envento NLW Next Level Week da Rocketseat.
+Projeto construido no envento NLW Next Level Week da Rocketseat.
 
-## :hommer_and_spanner: Tecnologias
+[:link: Clique aqui para acessar](https://rodrigoapoliveira.github.io/nlw-films-and-series/)
+
+## :hommer_and_wrench: Tecnologias
 
 - HTML
 - CSS
